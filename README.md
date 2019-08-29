@@ -1,7 +1,7 @@
 About rb-pathutil
 =================
 
-Home: https://rubygems.orgs/gems/pathutil
+Home: https://rubygems.org/gems/pathutil
 
 Package license: MIT
 
